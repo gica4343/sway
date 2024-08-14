@@ -37,7 +37,7 @@ set $menu dmenu_path | wmenu | xargs swaymsg exec --
 ### Output configuration
 #
 # Default wallpaper (more resolutions are available in /usr/share/backgrounds/sway/)
-output * bg /home/gica/Pictures/gzcnrpxss6j61.webp fill
+#output * bg /home/gica/Pictures/gzcnrpxss6j61.webp fill
 #
 # Example configuration:
 #
